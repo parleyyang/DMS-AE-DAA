@@ -1,0 +1,8 @@
+The implementation is as follows:
+  
+  In train_and_forecast.py , we train the parametric models and make the relevant forecasts based on the parametric models. These forecasts (and parameters when necessary) are stored in the designated directories.
+  In Fast_DMS.py , we perform DMS and efficiently scanning through all the hyperparameters desired.
+  In Fast_AE.py , we perform AE and efficiently scanning through all the hyperparameters desired.
+
+============
+To be continued
